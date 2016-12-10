@@ -2,4 +2,4 @@
 
 Patrones de diseño enfocados de la programación de juegos.
 
-Código de los artículos: http://www.ibuprogames.com/2016/12/08/patrones-de-diseno-i
+Código de los artículos: http://www.ibuprogames.com/2016/12/10/patrones-de-diseno-i/
